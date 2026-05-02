@@ -14,7 +14,7 @@ En este Juego controlarás a un protagonista en un RPG de aventuras en el cual v
 Bajo este contexto tendremos que sonorizar diferentes peleas con música energica para las peleas y diferentes estilos musicales para ambientar cada zona de cada mundo visitado.
 
 ## Analisis del Leidmotiv
-Hemos decidido darle un caracter animado a la melodía inspirandonos en el motivo de flowey de Undertale, para ello vamos a compones en una escala mayor una melodía pegadiza y alegre con saltos entre las notas (para darle ese carácte aegre).
+Hemos decidido darle un caracter animado a la melodía inspirandonos en los motivos de flowey de Undertale, green greens o gourmet race de kirby o melodias para niños como estrellita dónde estás, para ello vamos a compones en una escala mayor una melodía pegadiza y alegre, para ello hemos hecho una melodía que salta constantemente entre notas del acorde con un ritmo rápido y con muchas corcheas y semicorcheas seguidas para darle ese caracter juguetón.
 
 ## Estilos a adaptar
 - Combate/tension en distintas intensidades

@@ -31,3 +31,5 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 
 
 ## Características de cada estilo
+-  Combate: Para el combate se va a intentar simular un tema de batalla tipo juego RPG retro. En general en muchos temas de batallas, especialmente en Final Fantasy, se puede observar una intro seguidas de una sección A y una sección B que silve como respuesta a la sección A. Como estamos componiendo para un tema de batalla es importante que la música haga un Loop y para eso, en muchos juegos retros hacen uso de transiciones para las distintas partes de la melodía. En mi caso para Inspiración principal usaremos temas de Batalla juegos JRPG. 
+## Plugins Usados

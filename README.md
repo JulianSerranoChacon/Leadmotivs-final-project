@@ -33,8 +33,10 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 ## Características de cada estilo
 -  Combate: Para el combate se va a intentar simular un tema de batalla tipo juego RPG retro. En general en muchos temas de batallas, especialmente en Final Fantasy, se puede observar una intro seguidas de una sección A y una sección B que silve como respuesta a la sección A. Como estamos componiendo para un tema de batalla es importante que la música haga un Loop y para eso, en muchos juegos retros hacen uso de transiciones para las distintas partes de la melodía. En mi caso para Inspiración principal usaremos temas de Batalla juegos JRPG. 
 ## Plugins Usados
-- Vital
-- SurgeXT
-- BlueArp
-- Sforzando
-- MTPowerDrumKit2
+- [Vital](https://vital.audio/#getvital)
+- [SurgeXT](https://surge-synthesizer.github.io/)
+- [BlueArp](https://omg-instruments.com/wp/?page_id=46)
+- [Sforzando](https://www.plogue.com/products/sforzando.html)
+- [MTPowerDrumKit2](https://www.powerdrumkit.com/)
+- Numa Player 
+- [BBC Symphony Orchestra](https://www.spitfireaudio.com/en-eu/products/bbc-symphony-orchestra-discover)

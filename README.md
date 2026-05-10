@@ -61,6 +61,7 @@ Para el combate se va a intentar simular un tema de batalla tipo juego RPG retro
 <p align="center">
   <img src="Images/DekuTree.png" alt="DekuTree" width="300"/>
 </p>
+
 - A diferencia de la jungla este tipo de música tiene ritmos menos intensos y tienen una mayor tendencía a la fantasía.
 - En cuanto a la elección de instrumentos hay mucha diferencia con respecto a la selva, se suelen utilizar arpas, liras (glockenspiel) o la clesta, instrumento cuyos timbres evocan esa sensación de fantasía característica de muchos bosques en los videojuegos.
 - Las cuerdas frotadas suelen emplear la técina de Pizzicato (a diferencia de las de jungla que usan Spiccato), consistente en pellizcar las cuerdas con los dedos en lugar de usar el arco, puede recordar a elementos fantásticos, gotas o movimiento suave de hojas.

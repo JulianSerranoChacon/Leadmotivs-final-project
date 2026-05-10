@@ -45,7 +45,7 @@ Para el combate se va a intentar simular un tema de batalla tipo juego RPG retro
 ## Analisis del tema ambientado en un Bosque tropical
 
 <p align="center">
-  <img src="./images/Donkey.png" alt="Donkey" width="300"/>
+  <img src="images/Donkey.png" alt="Donkey" width="300"/>
 </p>
 
 - Muchas composiciones ambientadas en bosques tropicales utilizan sonidos graves y reverberantes para transmitir sensación de amplitud, profundidad y densidad espacial. Los registros bajos generan una percepción psicológica de “peso” y distancia, ayudando a representar un entorno grande, húmedo y lleno de vegetación.
@@ -54,7 +54,7 @@ Para el combate se va a intentar simular un tema de batalla tipo juego RPG retro
 - También hay un instrumento que aporta mucha inmersión llamado Cuica, el cuál tambien es llamado "Monkey Drum" por su sonido parecido al de un mono, es un instrumento de percusión que se toca haciendo transmitir la vibración al frotar un palo en su interior hacia el parche del exterior, si haces presión sobre el parche puedes hacer que el sonido suene más o menos agudo.
 - Además se pueden ver instrumentos de cuerda frotada tocada con las manos con la técnica de Spiccato.
 - Por último hay presencia del Swing dentro de algunas piezas de bandas sonoras, con su ritmo característico:
-![Swing](./images/Swing.png)
+![Swing](images/Swing.png)
 
 ## Bibliografía y referencias
 

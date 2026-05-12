@@ -92,6 +92,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - [Información y referencias acerca de la música ambiental](https://www.musicradar.com/news/brief-history-of-ambient-music?utm_source=chatgpt.com)
 - [Shin Megami Tensei III Nocturne Final Boss Before Transformation](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1)
 - [How to sound like Shoji Meguro (PS2)](https://www.youtube.com/watch?v=T8-_gYmq60Q)
+- [Last Boss Battle - Before Transformation ](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1)
 
 ## Plugins Usados
 

@@ -39,8 +39,17 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 ## Características de cada estilo
 
 ## Analisis del tema de combate
+<p align="center">
+  <img src="Images/RPGCombate.png" alt="Nocturne" width="600"/>
+</p>
 
-Para el combate se va a intentar simular un tema de batalla tipo juego RPG retro. En general en muchos temas de batallas, especialmente en Final Fantasy, se puede observar una intro seguidas de una sección A y una sección B que silve como respuesta a la sección A. Como estamos componiendo para un tema de batalla es importante que la música haga un Loop y para eso, en muchos juegos retros hacen uso de transiciones para las distintas partes de la melodía. En mi caso para Inspiración principal usaremos temas de Batalla juegos JRPG.
+- En un primer lugar para la composición de música de combate se ha usado como inspiración principalmente el trabajo de composición de juegos RPG de PS2, sobre todo los compuestos por Shoji Meguro para la PS2
+- En estos temas de combate se suelen empezar con un riff repetitivo y simple que se va repitiendo durante el tema entero
+- Estos incluyen una fuerte melodía también a lo largo del tema
+- En estos temas la intensidad aumenta a lo largo de la pieza, lentamente añadiendo nuevos elementos que poco a poco aumentan más y más ese sentimiento de tensión 
+- Por ejemplo en el tema de [Last Boss Battle - Before Transformation ](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1) del Shin Megami Tensei III, se puede observar una intro simple de un riff con un sintentizador en el fondo el cual ya generan una pequeña sensación de tensión el cual lentamente aumenta de intensidad añadiendo más y más instrumentos.
+- En cuanto a Instrumentos se puede observar un uso extensivo de sintetizadores muchos de ellos con un sonido bastante simple.
+- Por supuesto también esta el uso extensivo de la batería el cual genera sensasiones más pesadas a lo largo del tema.
 
 ## Analisis del tema ambientado en un Selva tropical
 
@@ -81,6 +90,8 @@ Para el combate se va a intentar simular un tema de batalla tipo juego RPG retro
 - [Bosque Kokiri](https://youtu.be/aQ6Fq-LfDZQ?si=N_xX5IFUbIC3v-HE)
 - [Información acerca de los golpes de arco para violín](https://estudiarelviolin.wordpress.com/wp-content/uploads/2013/06/golpesde_arco.pdf)
 - [Información y referencias acerca de la música ambiental](https://www.musicradar.com/news/brief-history-of-ambient-music?utm_source=chatgpt.com)
+- [Shin Megami Tensei III Nocturne Final Boss Before Transformation](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1)
+- [How to sound like Shoji Meguro (PS2)](https://www.youtube.com/watch?v=T8-_gYmq60Q)
 
 ## Plugins Usados
 

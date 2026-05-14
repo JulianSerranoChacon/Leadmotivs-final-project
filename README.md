@@ -82,10 +82,12 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
   <img src="Images/galaxy.jpg" alt="Galaxy" width="600"/>
 </p>
 
-- El Espacio como entorno es un lugar poco explorado y mucha de nuestras interpretaciones de esta, están basadas en la ciencie ficción.
+- El Espacio como entorno es un lugar poco explorado y mucha de nuestras interpretaciones de esta, están basadas en la ciencia ficción.
 - Mucha música espacial tienen un tono ambiental que intenta simular el inmenso vacío y frialdad del espacio.
 - Se puede observar un uso extenso de sintentizadores en música espacial, resaltando el theremin el cual tiene una asociación cultural con la ciencia ficción (uso en muchas películas antiguas de Ciencia Ficción, el tema de Doctor Who).
-- Para darle sensación de falta de gravedad, de floatar en el vacío del espacio, se puede usar un compas de 3/4 el cual es común en los valses
+- Para darle sensación de falta de gravedad, de floatar en el vacío del espacio, se puede usar un compas de 3/4 el cual es común en los valses y el cual se usa también en el tema de bajo agua del Super Mario el cual es un val.
+- Se usa mucho el Modo Lidio en Mario Galaxy por ejemplo el cual es un modo musical que da la sensación de llevarte arriba lo que encaja mucho con la temática espacial.
+- Luego en cuanto al tema de acordes, se usan acordes que suelen estar lejos de entre sí para crear una sensación de distancia.
 
 ## Bibliografía y referencias
 
@@ -104,6 +106,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - [How to sound like Shoji Meguro (PS2)](https://www.youtube.com/watch?v=T8-_gYmq60Q)
 - [Last Boss Battle - Before Transformation ](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1)
 - [Why Does Space Level Music Sound COSMIC?](https://www.youtube.com/watch?v=K3HOeHaJQ0M)
+- [Video de Ludofonía sobre el espacio](https://www.youtube.com/watch?v=IUEFuRQOc8s&t=74s)
 
 ## Plugins Usados
 

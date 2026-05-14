@@ -43,10 +43,10 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
   <img src="Images/RPGCombate.png" alt="Nocturne" width="600"/>
 </p>
 
-- En un primer lugar para la composición de música de combate se ha usado como inspiración principalmente el trabajo de composición de juegos RPG de PS2, sobre todo los compuestos por Shoji Meguro para la PS2
-- En estos temas de combate se suelen empezar con un riff repetitivo y simple que se va repitiendo durante el tema entero
-- Estos incluyen una fuerte melodía también a lo largo del tema
-- En estos temas la intensidad aumenta a lo largo de la pieza, lentamente añadiendo nuevos elementos que poco a poco aumentan más y más ese sentimiento de tensión 
+- En un primer lugar para la composición de música de combate se ha usado como inspiración principalmente el trabajo de composición de juegos RPG de PS2, sobre todo los compuestos por Shoji Meguro para la PS2.
+- En estos temas de combate se suelen empezar con un riff repetitivo y simple que se va repitiendo durante el tema entero.
+- Estos incluyen una fuerte melodía también a lo largo del tema.
+- En estos temas la intensidad aumenta a lo largo de la pieza, lentamente añadiendo nuevos elementos que poco a poco aumentan más y más ese sentimiento de tensión .
 - Por ejemplo en el tema de [Last Boss Battle - Before Transformation ](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1) del Shin Megami Tensei III, se puede observar una intro simple de un riff con un sintentizador en el fondo el cual ya generan una pequeña sensación de tensión el cual lentamente aumenta de intensidad añadiendo más y más instrumentos.
 - En cuanto a Instrumentos se puede observar un uso extensivo de sintetizadores muchos de ellos con un sonido bastante simple.
 - Por supuesto también esta el uso extensivo de la batería el cual genera sensasiones más pesadas a lo largo del tema.
@@ -77,6 +77,16 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - También es posible encontrar flautas, en muchas ocasiones flautas de culturas foráneas como el Shakuhachi japonés o las flautas de pan (se denomina así a múltiples flautas compuestas por tubos, pero hay mucha variedad proveniente de diferentes lugares).
 - Comúnmente se utilizan las escalas en modo Dórico (T–S–T–T–T–S–T) y Mixolidio (T–T–S–T–T–S–T), aunque en alguna ocasión se pueden encontrar en modo Lidio (T–T–T–S–T–T–S) o incluso el eólico (T–S–T–T–S–T–T)(menos frecuentemente), estas escalas aportan un carácter más luminoso y etéreo se utiliza para reforzar sensaciones de magia, misterio o naturaleza idealizada dentro de ciertos entornos boscosos.
 
+## Analisis del tema de Espacio
+<p align="center">
+  <img src="Images/galaxy.jpg" alt="Galaxy" width="600"/>
+</p>
+
+- El Espacio como entorno es un lugar poco explorado y mucha de nuestras interpretaciones de esta, están basadas en la ciencie ficción.
+- Mucha música espacial tienen un tono ambiental que intenta simular el inmenso vacío y frialdad del espacio.
+- Se puede observar un uso extenso de sintentizadores en música espacial, resaltando el theremin el cual tiene una asociación cultural con la ciencia ficción (uso en muchas películas antiguas de Ciencia Ficción, el tema de Doctor Who).
+- Para darle sensación de falta de gravedad, de floatar en el vacío del espacio, se puede usar un compas de 3/4 el cual es común en los valses
+
 ## Bibliografía y referencias
 
 - [Ludofonía](https://www.youtube.com/@ludofonia)
@@ -93,6 +103,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - [Shin Megami Tensei III Nocturne Final Boss Before Transformation](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1)
 - [How to sound like Shoji Meguro (PS2)](https://www.youtube.com/watch?v=T8-_gYmq60Q)
 - [Last Boss Battle - Before Transformation ](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1)
+- [Why Does Space Level Music Sound COSMIC?](https://www.youtube.com/watch?v=K3HOeHaJQ0M)
 
 ## Plugins Usados
 

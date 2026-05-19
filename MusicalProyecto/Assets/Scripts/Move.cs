@@ -5,29 +5,32 @@ using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class Move : MonoBehaviour
 {
-    Vector3 mousePosition;
     private Rigidbody2D _rb;
     [SerializeField] private float speed;
+    private Camera cam;
     private bool isGrounded;
     private bool jump;
     private float horizontal;
     [SerializeField]private float jumpForce;
 
-    private void Start()
+     void Start()
     {
         _rb=GetComponent<Rigidbody2D>();
         isGrounded=true;
         jump=false;
         horizontal=0;
+        cam=Camera.main;
     }
-    private void FixedUpdate()
+    void FixedUpdate()
     {
-        _rb.linearVelocityX = (horizontal * speed * Time.fixedDeltaTime);
+          cam.transform.position=new Vector3(_rb.position.x+5, cam.transform.position.y,cam.transform.position.z);
+        _rb.linearVelocityX = (speed * Time.fixedDeltaTime);
         if (jump)
         {
-            _rb.AddForceX(jumpForce);    
+            _rb.AddForceY(jumpForce);    
             jump = false;
         }
+        isGrounded = false;
     }
     private void OnCollisionStay2D(Collision2D collision)
     {
@@ -36,7 +39,6 @@ public class Move : MonoBehaviour
     }
     public void Movement(InputAction.CallbackContext context)
     {
-        Debug.Log("IN");
         horizontal = context.ReadValue<Vector2>().x;
     }
     public void Jump(InputAction.CallbackContext context)

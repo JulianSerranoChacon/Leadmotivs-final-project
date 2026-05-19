@@ -47,6 +47,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - En cuanto al producto final, estuve usando bastate tanto SurgeXT como Vital Audio para la parte de sintetizadores. En cuanto a sintetizadores estuve tocando bastante los parametros de esto para obtener un sonido que me interesaba.
 - También se ha usado BlueArp para componer un Arpeggio como melodía de sintetizador.
 - Otro plugin usado fue sforzando el cual usé para añadirle instrumentos de soundfonts.
+- La escala de la composición es D Armónica Menor y esta a 120 BPM y con un compás de 4/4
 
 ## Analisis del tema ambientado en un Selva tropical [Julián Serrano Chacón]
 
@@ -84,7 +85,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - Se puede observar un uso extenso de sintentizadores en música espacial, resaltando el theremin el cual tiene una asociación cultural con la ciencia ficción (uso en muchas películas antiguas de Ciencia Ficción, el tema de Doctor Who).
 - Para darle sensación de falta de gravedad, de floatar en el vacío del espacio, se puede usar un compas de 3/4 el cual es común en los valses y el cual se usa también en el tema de bajo agua del Super Mario el cual es un val.
 - Se usa mucho el Modo Lidio en Mario Galaxy por ejemplo el cual es un modo musical que da la sensación de llevarte arriba lo que encaja mucho con la temática espacial.
-- Luego en cuanto al tema de acordes, se usan acordes que suelen estar lejos de entre sí para crear una sensación de distancia.
+- En cuanto a la composición final el tema está en D lidio con un BPM de 70 y un compás de 3/4
 
 ## Bibliografía y referencias
 

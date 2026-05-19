@@ -24,16 +24,10 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 ## Estilos a adaptar
 
 - Combate/tension en distintas intensidades
-- Ambiental / natural
 - Selva tropical
-- Desierto
-- Subacuatico
-- Terror
 - Espacial
 - Bosque
-- Fábrica  
-- Asiatica
-- Casino
+
 
 
 ## Características de cada estilo
@@ -50,6 +44,9 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - Por ejemplo en el tema de [Last Boss Battle - Before Transformation ](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1) del Shin Megami Tensei III, se puede observar una intro simple de un riff con un sintentizador en el fondo el cual ya generan una pequeña sensación de tensión el cual lentamente aumenta de intensidad añadiendo más y más instrumentos.
 - En cuanto a Instrumentos se puede observar un uso extensivo de sintetizadores muchos de ellos con un sonido bastante simple.
 - Por supuesto también esta el uso extensivo de la batería el cual genera sensasiones más pesadas a lo largo del tema.
+- En cuanto al producto final, estuve usando bastate tanto SurgeXT como Vital Audio para la parte de sintetizadores. En cuanto a sintetizadores estuve tocando bastante los parametros de esto para obtener un sonido que me interesaba.
+- También se ha usado BlueArp para componer un Arpeggio como melodía de sintetizador.
+- Otro plugin usado fue sforzando el cual usé para añadirle instrumentos de soundfonts.
 
 ## Analisis del tema ambientado en un Selva tropical [Julián Serrano Chacón]
 

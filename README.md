@@ -38,7 +38,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 
 ## Características de cada estilo
 
-## Analisis del tema de combate
+## Analisis del tema de combate [Jiale He]
 <p align="center">
   <img src="Images/RPGCombate.png" alt="Nocturne" width="600"/>
 </p>
@@ -51,7 +51,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - En cuanto a Instrumentos se puede observar un uso extensivo de sintetizadores muchos de ellos con un sonido bastante simple.
 - Por supuesto también esta el uso extensivo de la batería el cual genera sensasiones más pesadas a lo largo del tema.
 
-## Analisis del tema ambientado en un Selva tropical
+## Analisis del tema ambientado en un Selva tropical [Julián Serrano Chacón]
 
 <p align="center">
   <img src="Images/Donkey.png" alt="Donkey" width="300"/>
@@ -62,11 +62,11 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - Predomina el uso de instrumentos de percusión afinada con sonido de madera, sobre todo el de la Marimba, cuyo timbre apagado y estructura de madera aportan una sonoridad muy característica y propia, además al ser un instrumento cuyo sustain no es muy largo (y no hay forma de alargarlo, ya que a diferencia del vibráfono no cuenta con un pedal) se utiliza mucho una técnica llamada trémolo consistente en un redoble entre una o más notas para alargar su sonido.
 - También hay un instrumento que aporta mucha inmersión llamado Cuica, el cuál tambien es llamado "Monkey Drum" por su sonido parecido al de un mono, es un instrumento de percusión que se toca haciendo transmitir la vibración al frotar un palo en su interior hacia el parche del exterior, si haces presión sobre el parche puedes hacer que el sonido suene más o menos agudo.
 - Además se pueden ver instrumentos de cuerda frotada tocada con la técnica de Spiccato (no el Pizzicato usado en la música de bosque), consiste en un movimiento de muñeca donde el arco se despega ligeramente de la cuerda entre notas y se usa para pasajes ágiles, virtuosos y con mucha articulación, puede recordar a insectos, lluvia intensa, monos o ramas agitandose.
-- En cuanto a las escalas empleadas, predominan el modo mixolidio (T–T–S–T–T–S–T) o la escala pentatónica menor ((T+S)–T–T–(T+S)–T), Estas escalas evitan la fuerte jerarquía tonal de la armonía funcional tradicional, permitiendo que la música se perciba como un entorno continuo más que como una progresión con resolución clara.
+- En cuanto a las escalas empleadas, predominan el modo mixolidio (T–T–S–T–T–S–T) o la escala pentatónica menor  ((T+S)–T–T–(T+S)–T), Estas escalas evitan la fuerte jerarquía tonal de la armonía funcional tradicional, permitiendo que la música se perciba como un entorno continuo más que como una progresión con resolución clara.
 - Por último hay presencia del Swing dentro de algunas piezas de bandas sonoras, con su ritmo característico:
 ![Swing](Images/Swing.png)
 
-## Analisis del tema ambientado en un Bosque
+## Analisis del tema ambientado en un Bosque [Julián Serrano Chacón]
 <p align="center">
   <img src="Images/DekuTree.png" alt="DekuTree" width="300"/>
 </p>
@@ -77,7 +77,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - También es posible encontrar flautas, en muchas ocasiones flautas de culturas foráneas como el Shakuhachi japonés o las flautas de pan (se denomina así a múltiples flautas compuestas por tubos, pero hay mucha variedad proveniente de diferentes lugares).
 - Comúnmente se utilizan las escalas en modo Dórico (T–S–T–T–T–S–T) y Mixolidio (T–T–S–T–T–S–T), aunque en alguna ocasión se pueden encontrar en modo Lidio (T–T–T–S–T–T–S) o incluso el eólico (T–S–T–T–S–T–T)(menos frecuentemente), estas escalas aportan un carácter más luminoso y etéreo se utiliza para reforzar sensaciones de magia, misterio o naturaleza idealizada dentro de ciertos entornos boscosos.
 
-## Analisis del tema de Espacio
+## Analisis del tema de Espacio [Jiale He]
 <p align="center">
   <img src="Images/galaxy.jpg" alt="Galaxy" width="600"/>
 </p>

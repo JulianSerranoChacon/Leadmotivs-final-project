@@ -1,8 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
-using static Unity.Collections.AllocatorManager;
-using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class Move : MonoBehaviour
 {

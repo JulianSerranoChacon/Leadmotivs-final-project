@@ -48,7 +48,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -5226,6 +5226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Move
   speed: 200
   jumpForce: 300
+  portalPrefab: {fileID: 3122426293366377615, guid: 9510679e1c41f7441b6c9b8e8c7c08d8, type: 3}
 --- !u!114 &6089934210882552523
 MonoBehaviour:
   m_ObjectHideFlags: 0

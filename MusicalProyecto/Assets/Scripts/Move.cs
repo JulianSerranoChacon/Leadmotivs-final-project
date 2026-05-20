@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 using static Unity.Collections.AllocatorManager;
 using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
@@ -13,8 +14,16 @@ public class Move : MonoBehaviour
     private float horizontal;
     [SerializeField]private float jumpForce;
     Vector2 iniPos;
+    [SerializeField] GameObject portalPrefab;
+    private bool portalInstanciado = false;
+    MusicPlayer musicPlayer;
 
-     void Start()
+    public void RegisterMP(MusicPlayer mp)
+    {
+        musicPlayer = mp;
+    }
+
+    void Start()
     {
         _rb=GetComponent<Rigidbody2D>();
         isGrounded=true;
@@ -53,8 +62,21 @@ public class Move : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.GetComponent<TPToInitialPos>() != null) {
+        if (!portalInstanciado && collision.GetComponent<TPToInitialPos>() != null) {
             transform.position = iniPos;
+        }
+    }
+
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (!musicPlayer.getIsplaying() && !portalInstanciado)
+        {
+            GameObject portal = Instantiate(portalPrefab);
+            portal.transform.position = transform.position + new Vector3(12, 0, 0);
+            portal.GetComponent<Portal>().setNextScene((SceneManager.GetActiveScene().buildIndex + 1) % SceneManager.sceneCountInBuildSettings);
+            portalInstanciado = true;
         }
     }
 }

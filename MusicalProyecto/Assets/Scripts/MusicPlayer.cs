@@ -1,4 +1,7 @@
+using UnityEditor;
 using UnityEngine;
+using UnityEngine.Audio;
+using UnityEngine.SceneManagement;
 public class MusicPlayer : MonoBehaviour
 {
     [SerializeField] private AudioClip clip;
@@ -9,11 +12,11 @@ public class MusicPlayer : MonoBehaviour
         audioSrc=GetComponent<AudioSource>();
         audioSrc.clip = clip;
         audioSrc.Play();
+        transform.parent.GetComponent<Move>().RegisterMP(this);
     }
 
-    // Update is called once per frame
-    void Update()
+    public bool getIsplaying()
     {
-        
+        return audioSrc.isPlaying;
     }
 }

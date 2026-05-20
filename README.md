@@ -66,7 +66,9 @@ Hemos decidido darle un carácter animado a la melodía inspirándonos en los mo
 - En cuanto a las escalas empleadas, predominan el modo mixolidio (T–T–S–T–T–S–T) o la escala pentatónica menor ((T+S)–T–T–(T+S)–T), Estas escalas evitan la fuerte jerarquía tonal de la armonía funcional tradicional, permitiendo que la música se perciba como un entorno continuo más que como una progresión con resolución clara.  
 - Por último, hay presencia del Swing dentro de algunas piezas de bandas sonoras, con su ritmo característico:  
 
-![Swing](Images/Swing.png)
+![Swing](Images/Swing.png)  
+
+- Para el resultado final decidí utilizar marimbas para poder dar ese tono de madera a la melodía y su acompañamiento, además de usar bongós y una cuica para el apartado rítmico, en el apartado musical he empleado bastante el Swing. Además, he añadido reverberación para dar la sensación de amplitud de la selva.  
 
 ## Analisis del tema ambientado en un Bosque [Julián Serrano Chacón]
 <p align="center">
@@ -78,6 +80,7 @@ Hemos decidido darle un carácter animado a la melodía inspirándonos en los mo
 - Las cuerdas frotadas suelen emplear la técnica de Pizzicato (a diferencia de las de jungla que usan Spiccato), consistente en pellizcar las cuerdas con los dedos en lugar de usar el arco, puede recordar a elementos fantásticos, gotas o movimiento suave de hojas.  
 - También es posible encontrar flautas, en muchas ocasiones flautas de culturas foráneas como el Shakuhachi japonés o las flautas de pan (se denomina así a múltiples flautas compuestas por tubos, pero hay mucha variedad proveniente de diferentes lugares).  
 - Comúnmente se utilizan las escalas en modo Dórico (T–S–T–T–T–S–T) y Mixolidio (T–T–S–T–T–S–T), aunque en alguna ocasión se pueden encontrar en modo Lidio (T–T–T–S–T–T–S) o incluso el eólico (T–S–T–T–S–T–T)(menos frecuentemente), estas escalas aportan un carácter más luminoso y etéreo se utiliza para reforzar sensaciones de magia, misterio o naturaleza idealizada dentro de ciertos entornos boscosos.  
+- Para la composición final he utilizado una flauta de pan para darle una sonoridad a bosque denso con mucho aire, para el acompañamiento he usado una lira (glockenspiel) para darle ese sonido metálico y mágico, por último, cuando aparece el leitmotiv lo hace acompañado de una celesta, instrumento por excelencia para representar la magia, el ritme es mucho más calmado y suave que en la composición de jungla.  
 
 
 ## Analisis del tema de Espacio [Jiale He]
@@ -91,8 +94,8 @@ Hemos decidido darle un carácter animado a la melodía inspirándonos en los mo
 - Para darle sensación de falta de gravedad, de flotar en el vacío del espacio, se puede usar un compás de 3/4 el cual es común en los valses y el cual se usa también en el tema de bajo agua del Super Mario el cual es un vals.  
 - Se usa mucho el Modo Lidio en Mario Galaxy por ejemplo el cual es un modo musical que da la sensación de llevarte arriba lo que encaja mucho con la temática espacial.  
 - En cuanto a la composición final el tema está en D lidio con un BPM de 70 y un compás de 3/4  
-- Todos los instrumentos de esta pieza son Sintetizadores y se ha usado exclusivemente Vital Audio para la composición. He intentado usar tanto presets como instrumentos que me hize yo misma mas instrumentos defaults que he modificado para obtener los sonidos futuristas de un espacio el cual es bastante vacio.
-- Tambien intenté darle un toque algo melancólico y ambiental para resaltar el frio y vacio espacial.
+- Todos los instrumentos de esta pieza son Sintetizadores y se ha usado exclusivamente Vital Audio para la composición. He intentado usar tanto presets como instrumentos que me hice yo misma más instrumentos defaults que he modificado para obtener los sonidos futuristas de un espacio el cual es bastante vacío.
+- También intenté darle un toque algo melancólico y ambiental para resaltar el frio y vacío espacial.  
 
 
 ## Bibliografía y referencias

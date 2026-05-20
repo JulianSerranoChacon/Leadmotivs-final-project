@@ -98,6 +98,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 - [Música de bosque de Golden Sun](https://youtu.be/i_6KiUyIoRs?si=x6W78x00kYTYDi82)
 - [Minish Woods TLoZ Minish Cap](https://youtu.be/PydqkG0xRZo?si=NjPawazqGgnqMLmq)
 - [Bosque Kokiri](https://youtu.be/aQ6Fq-LfDZQ?si=N_xX5IFUbIC3v-HE)
+- [Artista LEO ROJAS](https://www.youtube.com/channel/UCzFnloeM9qA1j7fuJ-7iT3g)
 - [Información acerca de los golpes de arco para violín](https://estudiarelviolin.wordpress.com/wp-content/uploads/2013/06/golpesde_arco.pdf)
 - [Información y referencias acerca de la música ambiental](https://www.musicradar.com/news/brief-history-of-ambient-music?utm_source=chatgpt.com)
 - [Shin Megami Tensei III Nocturne Final Boss Before Transformation](https://www.youtube.com/watch?v=axUVAWoUzTY&list=RDaxUVAWoUzTY&start_radio=1)

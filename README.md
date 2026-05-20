@@ -48,8 +48,9 @@ Hemos decidido darle un carácter animado a la melodía inspirándonos en los mo
 - Por supuesto también esta el uso extensivo de la batería el cual genera sensasiones más pesadas a lo largo del tema.
 - En cuanto al producto final, estuve usando bastate tanto SurgeXT como Vital Audio para la parte de sintetizadores. En cuanto a sintetizadores estuve tocando bastante los parametros de esto para obtener un sonido que me interesaba.
 - También se ha usado BlueArp para componer un Arpeggio como melodía de sintetizador.
-- Otro plugin usado fue sforzando el cual usé para añadirle instrumentos de soundfonts.
+- Otro plugin usado fue sforzando el cual usé para añadirle instrumentos de soundfonts y también en parte como experimento auditivo para ver que texturas se podrían añadirles.
 - La escala de la composición es D Armónica Menor y esta a 120 BPM y con un compás de 4/4
+- Intenté bastante darle una cierta tensión, como si fuera un encuentro o combate especial, ya sea jefe en un juego RPG muy importante a la historia o un encuentro especial.
 
 ## Analisis del tema ambientado en un Selva tropical [Julián Serrano Chacón]
 
@@ -90,6 +91,8 @@ Hemos decidido darle un carácter animado a la melodía inspirándonos en los mo
 - Para darle sensación de falta de gravedad, de flotar en el vacío del espacio, se puede usar un compás de 3/4 el cual es común en los valses y el cual se usa también en el tema de bajo agua del Super Mario el cual es un vals.  
 - Se usa mucho el Modo Lidio en Mario Galaxy por ejemplo el cual es un modo musical que da la sensación de llevarte arriba lo que encaja mucho con la temática espacial.  
 - En cuanto a la composición final el tema está en D lidio con un BPM de 70 y un compás de 3/4  
+- Todos los instrumentos de esta pieza son Sintetizadores y se ha usado exclusivemente Vital Audio para la composición. He intentado usar tanto presets como instrumentos que me hize yo misma mas instrumentos defaults que he modificado para obtener los sonidos futuristas de un espacio el cual es bastante vacio.
+- Tambien intenté darle un toque algo melancólico y ambiental para resaltar el frio y vacio espacial.
 
 
 ## Bibliografía y referencias

@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 160533dd0cc5d914dbc4d3677af18ed3
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 60d97dff5c8c1744a805cd6e02bd40a8
+  - enabled: 1
     path: Assets/Scenes/Espacio.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Jungle.unity
+    guid: 847a7cc18f402094897285fc052d9a2a
+  - enabled: 1
+    path: Assets/Scenes/Combate.unity
+    guid: 504dbbad2e506c9468482a0b01241abc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -3,15 +3,17 @@ using UnityEngine;
 public class BossMove : MonoBehaviour
 {
     [SerializeField] private GameObject player;
-    private Transform transgender;
+    [SerializeField] private float offset;
+    private Transform mTransform;
+
     void Start()
     {
-        transgender= GetComponent<Transform>();
+        mTransform= GetComponent<Transform>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        transgender.position=new Vector3(player.transform.position.x+12,transgender.position.y,transgender.position.z);
+        mTransform.position=new Vector3(player.transform.position.x+offset,mTransform.position.y,mTransform.position.z);
     }
 }

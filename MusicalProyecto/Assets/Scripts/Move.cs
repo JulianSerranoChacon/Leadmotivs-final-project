@@ -12,6 +12,7 @@ public class Move : MonoBehaviour
     private bool jump;
     private float horizontal;
     [SerializeField]private float jumpForce;
+    Vector2 iniPos;
 
      void Start()
     {
@@ -20,6 +21,7 @@ public class Move : MonoBehaviour
         jump=false;
         horizontal=0;
         cam=Camera.main;
+        iniPos = transform.position;
     }
     void FixedUpdate()
     {
@@ -46,6 +48,13 @@ public class Move : MonoBehaviour
         if (context.performed&&isGrounded)
         {
             jump= true;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.GetComponent<TPToInitialPos>() != null) {
+            transform.position = iniPos;
         }
     }
 }

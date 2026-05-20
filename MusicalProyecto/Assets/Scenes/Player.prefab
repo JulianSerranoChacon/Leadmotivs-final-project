@@ -4993,6 +4993,7 @@ GameObject:
   - component: {fileID: 589265382101643075}
   - component: {fileID: 981949665793411011}
   - component: {fileID: 6615046703299740064}
+  - component: {fileID: 6089934210882552523}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -5225,3 +5226,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Move
   speed: 200
   jumpForce: 300
+--- !u!114 &6089934210882552523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8784944669634392878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0da2315f867cd8944ac9c730e765ddaa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TPToInitialPos

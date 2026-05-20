@@ -70,7 +70,7 @@ Hemos decidido darle un caracter animado a la melodía inspirandonos en los moti
 </p>
 
 - A diferencia de la jungla este tipo de música tiene ritmos menos intensos y tienen una mayor tendencía a la fantasía.
-- En cuanto a la elección de instrumentos hay mucha diferencia con respecto a la selva, se suelen utilizar arpas, liras (glockenspiel) o la clesta, instrumento cuyos timbres evocan esa sensación de fantasía característica de muchos bosques en los videojuegos.
+- En cuanto a la elección de instrumentos hay mucha diferencia con respecto a la selva, se suelen utilizar arpas, liras (glockenspiel) o la celesta, instrumento cuyos timbres evocan esa sensación de fantasía característica de muchos bosques en los videojuegos.
 - Las cuerdas frotadas suelen emplear la técina de Pizzicato (a diferencia de las de jungla que usan Spiccato), consistente en pellizcar las cuerdas con los dedos en lugar de usar el arco, puede recordar a elementos fantásticos, gotas o movimiento suave de hojas.
 - También es posible encontrar flautas, en muchas ocasiones flautas de culturas foráneas como el Shakuhachi japonés o las flautas de pan (se denomina así a múltiples flautas compuestas por tubos, pero hay mucha variedad proveniente de diferentes lugares).
 - Comúnmente se utilizan las escalas en modo Dórico (T–S–T–T–T–S–T) y Mixolidio (T–T–S–T–T–S–T), aunque en alguna ocasión se pueden encontrar en modo Lidio (T–T–T–S–T–T–S) o incluso el eólico (T–S–T–T–S–T–T)(menos frecuentemente), estas escalas aportan un carácter más luminoso y etéreo se utiliza para reforzar sensaciones de magia, misterio o naturaleza idealizada dentro de ciertos entornos boscosos.
